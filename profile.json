@@ -1,0 +1,48 @@
+{
+  "title": "Senior front-end",
+  "image_cover_url": "",
+  "skills": [
+    "JavaScript",
+    "Angular",
+    "React",
+    "PHP",
+    "C#",
+    "AWS",
+    "Nodejs"
+  ],
+  "social": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/paulo-henrique-santos/"
+    },
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/phfoxer"
+    }
+  ],
+  "languages": [
+    "Portuguese",
+    "English"
+  ],
+  "experience": [
+    {
+      "company_name": "Google",
+      "occupation": "Senior Front end",
+      "stack": [
+        "Go",
+        "AWS",
+        "CSS",
+        "C#"
+      ],
+      "company_image": "https://img1.gratispng.com/20180324/kae/kisspng-google-logo-g-suite-chrome-5ab6e6189d5b63.7354407715219358966445.jpg",
+      "duration": "1 years"
+    }
+  ],
+  "education": [
+    {
+      "logo": "https://upload.wikimedia.org/wikipedia/pt/2/29/Harvard_Logo.svg.png",
+      "institution": "Harvard",
+      "occupation": "MBA Product Management"
+    }
+  ]
+}
