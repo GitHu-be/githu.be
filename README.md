@@ -1,5 +1,5 @@
 # [Githu.be]
-## _Github social integration_
+## _Your Github resume profile_
 
 Fork this repository and edit the `profile.json` to customize your [Githu.be] profile
 
