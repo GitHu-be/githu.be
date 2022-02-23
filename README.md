@@ -1,7 +1,7 @@
-# [Githu.be]
-## _Your Github resume profile_
+# Your Github resume profile
+## _Fork this repository and edit the `profile.json` to customize your [Githu.be] profile_
 
-Fork this repository and edit the `profile.json` to customize your [Githu.be] profile
+
 
   [Githu.be]: <https://githu.be>
 
